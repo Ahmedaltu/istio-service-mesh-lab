@@ -17,7 +17,7 @@ Istio is a service mesh that manages all network communication between microserv
 
 ### Why Istio used
 
-In a 5G network, hundreds of microservices (network functions like AMF, SMF, UPF) communicate with each other. Istio lets Ericsson enforce security policies and observe traffic between these functions without modifying each service individually — critical at telecom scale.
+In a 5G network, hundreds of microservices (network functions like AMF, SMF, UPF) communicate with each other. Istio lets enforce security policies and observe traffic between these functions without modifying each service individually — critical at telecom scale.
 
 ---
 
