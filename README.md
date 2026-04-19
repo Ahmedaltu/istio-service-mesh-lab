@@ -166,4 +166,4 @@ kind delete cluster --name istio-lab
 
 ---
 
-*Deployed on GCP (n2-standard-4, Kind) — April 2026 | Aalto University*
+*Deployed on GCP (n2-standard-4, Kind)*
