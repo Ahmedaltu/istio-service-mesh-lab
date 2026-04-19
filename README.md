@@ -2,7 +2,7 @@
 
 A hands-on Istio service mesh deployment on Kubernetes (Kind), demonstrating traffic management, automatic mTLS, and sidecar injection using the Bookinfo sample application.
 
-Istio is a CNCF graduated project with significant contributions from **Ericsson Software Technology**, whose engineer Faseela K serves on the Istio Steering Committee and CNCF Technical Oversight Committee.
+
 
 ---
 
