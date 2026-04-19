@@ -51,4 +51,4 @@ If you find issues with Istio itself, consider contributing upstream:
 
 ---
 
-*Ahmed Altuwaijari — Aalto University — April 2026*
+*Ahmed Altuwaijari 
