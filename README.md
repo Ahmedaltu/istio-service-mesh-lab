@@ -145,7 +145,11 @@ This demonstrates zero-downtime traffic switching — changing which version of 
 
 While working with this setup, I identified a documentation gap in the official Istio docs — the Bookinfo getting started guide does not mention that applying `destination-rule-all.yaml` produces expected `IST0173` analyzer warnings for the `v2-mysql` and `v2-mysql-vm` subsets, which are not deployed in a standard installation. I submitted a fix:
 
-**PR #17329 on istio/istio.io:** [docs: add note about expected IST0173 warnings when applying Bookinfo destination rules](https://github.com/istio/istio.io/pull/17329)
+
+
+PR #17329 — docs: add note about expected IST0173 warnings when applying Bookinfo destination rules
+PR #17330 — docs: add missing ztunnel Grafana dashboard to integrations page  
+PR #17335 — docs: add SAN extension to secure ingress certificate generation commands
 
 ---
 
